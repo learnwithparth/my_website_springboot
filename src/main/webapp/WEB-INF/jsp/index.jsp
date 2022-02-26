@@ -13,7 +13,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
   <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
   <title>Learn Computing...</title>
-  <link rel="shortcut icon" href="images/favicon.ico">
+  <link rel="shortcut icon" href="images/favicon.ico.png">
 
   <!-- Google Font-->
   <link
@@ -59,7 +59,8 @@
     <aside class="menu" id="menu">
       <div class="logo">
         <!-- Logo image-->
-        <img src="images/logo.png" width="140" height="140" alt="Parth"/>
+          <br/>
+        <img src="images/logo1.png" width="140" height="140" alt="Parth"/>
         <!-- Logo name-->
         <span>Parth Shah</span>
       </div>

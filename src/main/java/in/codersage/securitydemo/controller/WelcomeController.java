@@ -21,12 +21,12 @@ import java.util.Map;
 @Controller
 public class WelcomeController {
 
-    @RequestMapping(value ={"/", "/home"})
+    @RequestMapping(value ={ "/","/home"})
     public String welcome(Map<String, Object> model) {
         return "index";
     }
 
-    @RequestMapping("/blog")
+    @RequestMapping(value={"/blog"})
     public String showBlog() {
         return "blog";
     }

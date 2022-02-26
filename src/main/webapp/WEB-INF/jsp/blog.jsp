@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1"/>
     <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
     <title>Learn Computing...</title>
-    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="shortcut icon" href="images/favicon.ico.png">
     <!-- Google Font-->
     <link
             href='http://fonts.googleapis.com/css?family=Roboto:400,300italic,300,100italic,100,400italic,500,500italic,700,900,900italic,700italic%7COswald:400,300,700'
@@ -36,7 +36,8 @@
     <aside class="menu" id="menu">
         <div class="logo">
             <!-- Logo image-->
-            <img src="images/logo.png" width="140" height="140" alt=""/>
+            <br/>
+            <img src="images/logo1.png" width="140" height="140" alt=""/>
             <!-- Logo name-->
             <span>Andrew Smith</span>
         </div>
