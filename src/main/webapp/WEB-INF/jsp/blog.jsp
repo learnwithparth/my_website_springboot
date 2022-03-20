@@ -102,13 +102,13 @@
                             src="https://img-c.udemycdn.com/course/240x135/4170320_05f5_2.jpg" alt=""></a></div>
                     <div class="blog-list-details"><span class="date">Saturday &nbsp;/&nbsp; June 15, 2013</span>
                         <h3><a
-                                href="https://learnwithparth.medium.com/installing-wordpress-on-aws-ec2-instance-75754e10ced4">Developing
+                                href="https://www.udemy.com/course/developing-and-hosting-a-short-lived-website-for-a-free">Developing
                             and Hosting a Short Lived Website for a Free</a></h3>
 
                         <div class="title-divider"></div>
                         <p> This is my UDEMY course. In this course you will learn to Hosting and displaying spring boot
                             application
-                            on AWS EC2, Creating self signed and Zero SSL certificate and free domain registration.</p>
+                            on AWS EC2, Creating self-signed and Zero SSL certificate and free domain registration.</p>
 
                     </div>
                 </div>
@@ -116,7 +116,7 @@
                     <div class="blog-list filter aws">
                         <div class="blog-img"><a
                                 href="https://learnwithparth.medium.com/installing-wordpress-on-aws-ec2-instance-75754e10ced4"><img
-                                src=https://www.wpbeginner.com/wp-content/uploads/2018/05/wponaws.png" alt=""></a></div>
+                                src="https://www.wpbeginner.com/wp-content/uploads/2018/05/wponaws.png" alt=""></a></div>
                         <div class="blog-list-details"> <span class="date">Saturday &nbsp;/&nbsp; June 15, 2013</span>
                             <h3><a
                                     href="https://learnwithparth.medium.com/installing-wordpress-on-aws-ec2-instance-75754e10ced4">INSTALLING
