@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-rm -rf /home/ec2-user/*.jar
+rm -rf /home/ec2-user/target/*.war
