@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 cd /home/ec2-user/
-mvn spring-boot:run
+mvn install
 sudo java -jar target/*.war
