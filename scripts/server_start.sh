@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
+cd /home/ec2-user/
 sudo yum install git
 sudo yum install maven
 mvn install
-cd /home/ec2-user/
 sudo java -jar *.war
