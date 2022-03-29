@@ -125,7 +125,7 @@
             <div class="about-con">
 
               <ul>
-                <li>Name: Parth Shah</li>
+                <li><strong>Name : </strong> Parth Shah</li>
                 <li>Email: <a href="mailto:learnwithparth.in@gmail.com">learnwithparth.in@gmail.com</a></li>
                 <li>Phone: (91) - 9925020358</li>
                 <li>Date of birth: 4<sup>th</sup> March 1980</li>
