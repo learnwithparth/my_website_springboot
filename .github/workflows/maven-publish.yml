@@ -33,10 +33,9 @@ jobs:
     - name: Pull & Run from Hub
       uses: appleboy/ssh-action@master
       with:
-        host:
+        host: ec2-65-1-109-3.ap-south-1.compute.amazonaws.com
         username: ec2-user
         key: ${{secrets.AWS_PRIVATE_KEY}}
-        aws-region: ap-south-1
         envs: HITHUB_SHA
         script: |
           sudo docker pull learnwithparth/myprofile
