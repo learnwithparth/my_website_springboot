@@ -67,4 +67,4 @@ jobs:
           #Set artifact name
           name: artifact
           #From this path
-        path: target/securitydemo-0.0.1-SNAPSHOT.war.jar
+          path: target/securitydemo-0.0.1-SNAPSHOT.war.jar
