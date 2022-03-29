@@ -55,6 +55,7 @@ jobs:
         dockerfile: Dockerfile
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
+  deploy:
     - name: Pull & Run from Hub
       uses: appleboy/ssh-action@master
       with:
