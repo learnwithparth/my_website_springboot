@@ -18,7 +18,10 @@
 		<java.version>1.8</java.version>
 		<maven.compiler.source>8</maven.compiler.source>
 		<maven.compiler.target>8</maven.compiler.target>
+		<sonar.organization>learnwithparth</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
+
 	<dependencies>
 
 
