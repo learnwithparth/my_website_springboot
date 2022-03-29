@@ -126,11 +126,11 @@
 
               <ul>
                 <li><strong>Name : </strong> Parth Shah</li>
-                <li>Email: <a href="mailto:learnwithparth.in@gmail.com">learnwithparth.in@gmail.com</a></li>
-                <li>Phone: (91) - 9925020358</li>
-                <li>Date of birth: 4<sup>th</sup> March 1980</li>
-                <li>Address: A7, Astha Angan, Nr Anjaniya Niketan, Anand, Gujarat-388120, India</li>
-                <li>Nationality: Indian</li>
+                <li><strong>Email :</strong> <a href="mailto:learnwithparth.in@gmail.com">learnwithparth.in@gmail.com</a></li>
+                <li><strong>Phone :</strong> (91) - 9925020358</li>
+                <li><strong>Date of Birth :</strong> 4<sup>th</sup> March 1980</li>
+                <li><strong>Address :</strong> A7, Astha Angan, Nr Anjaniya Niketan, Anand, Gujarat-388120, India</li>
+                <li><strong>Nationality :</strong> Indian</li>
               </ul>
               <h3>Professional Profile</h3>
               <p align="justify"> <i>Hello, I&lsquo;m Parth Shah, a Full Stack Web Application Developer with a strong work ethic and a commitment to excellence in
