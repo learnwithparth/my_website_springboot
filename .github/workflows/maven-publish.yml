@@ -34,7 +34,7 @@ jobs:
         run: mvn -B test
     #Build's job
   build:
-    need: tests
+    needs: tests
     name: Build and Push
     runs-on: ubuntu-latest
     steps:
@@ -58,7 +58,7 @@ jobs:
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
   deploy:
-    need: build
+    needs: build
     name: Pull and Deploy
     runs-on: ubuntu-latest
     steps:
