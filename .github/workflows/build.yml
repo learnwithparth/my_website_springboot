@@ -35,7 +35,7 @@ jobs:
         run: mvn -B test
     #Build's job
   build:
-      #Depends on sonar's job
+    #Depends on sonar's job
     needs: tests
     name: Build
     #Run on Ubuntu using the latest version
