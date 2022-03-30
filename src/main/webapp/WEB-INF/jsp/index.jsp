@@ -133,7 +133,7 @@
                 <li><strong>Nationality :</strong> Indian</li>
               </ul>
               <h3>Professional Profile</h3>
-              <p align="justify"> <i>Hello, I&lsquo;m Parth Shah, a Full Stack Web Application Developer with a strong work ethic and a commitment to excellence in
+              <p align="justify"> <i>Hey, I&lsquo;m Parth Shah, a Full Stack Web Application Developer with a strong work ethic and a commitment to excellence in
                 teaching. I Skillfully manage software development and academic responsibilities. I am an Information and Network Security Professor with over <%= LocalDate.now().getYear() - 2004  %> years of research and teaching
                 experience. I thoroughly understand the learning process and works hard to adapt new methods and use various teaching styles.</i><br>
               </p>
