@@ -97,7 +97,7 @@
             <div class="container-sub margin-top50">
               <div class="row">
                 <div class="col-6 margin-bottom50">
-                  <h2><span>Hello, I'm</span><br>
+                  <h2><span>Hi, I'm</span><br>
                     Parth Shah</h2>
                   <span class="title">Full Stack Application Developer</span> <br />
                 </div>
