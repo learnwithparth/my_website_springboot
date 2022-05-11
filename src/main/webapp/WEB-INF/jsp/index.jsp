@@ -102,11 +102,13 @@
                   <span class="title">Full Stack Application Developer</span> <br />
                 </div>
                 <div class="col-6 margin-bottom50">
-                  <span><img src="images/AWS-SolArchitect-Associate-2020.png"  style="max-width: 30%;height: auto;">
+                  <span>
+                    <img src="images/CEHV11.png"
+                         style="max-width: 30%;height: auto;">
+                    <img src="images/AWS-SolArchitect-Associate-2020.png"  style="max-width: 30%;height: auto;">
                     <img src="images/AWS-Academy-Accredited-Educator-Badge.png"
                       style="max-width: 30%;height: auto;">
-                    <img src="images/AWS-Academy-Graduate-Badge-Foundational.png"
-                      style="max-width: 30%;height: auto;">
+
                   </span>
                 </div>
               </div>
@@ -457,6 +459,10 @@
                   <div id="grid-gallery" class="grid-gallery">
                     <section class="grid-wrap">
                       <ul class="grid">
+                        <li>
+                          <figure> <img src="images/ECC-CEH-Certificate.webp" alt="" />
+                          </figure>
+                        </li>
                         <li>
                           <figure> <img src="images/AWS Certified Solutions Architect - Associate certificate.webp" alt="" />
                           </figure>
