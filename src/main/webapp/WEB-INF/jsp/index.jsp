@@ -460,6 +460,10 @@
                     <section class="grid-wrap">
                       <ul class="grid">
                         <li>
+                          <figure> <img src="images/ECC-CEI-Certificate.webp" alt="" />
+                          </figure>
+                        </li>
+                        <li>
                           <figure> <img src="images/ECC-CEH-Certificate.webp" alt="" />
                           </figure>
                         </li>
