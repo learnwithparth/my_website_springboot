@@ -8,6 +8,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.util.FileCopyUtils;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.servlet.view.RedirectView;
 
 
 import javax.servlet.http.HttpServletRequest;
@@ -29,6 +30,11 @@ public class WelcomeController {
     @RequestMapping(value={"/blog"})
     public String showBlog() {
         return "blog";
+    }
+
+    @GetMapping("/download_jdk")
+    public RedirectView redirectToDownloadJDK(){
+        return new RedirectView("https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html");
     }
 
 }
