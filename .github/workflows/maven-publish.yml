@@ -137,7 +137,7 @@ jobs:
           sudo docker pull learnwithparth/myprofile
           sudo docker stop mywebsite
           sudo docker rm mywebsite
-          sudo docker run --detach --name mywebsite -p 443:443 learnwithparth/myprofile
+          sudo docker run --detach --name mywebsite -p 80:80 learnwithparth/myprofile
       #Deploy the artifact (JAR) into AWS Beanstalk
 #      - name: Deploy to EB
 #        uses: einaregilsson/beanstalk-deploy@v13
